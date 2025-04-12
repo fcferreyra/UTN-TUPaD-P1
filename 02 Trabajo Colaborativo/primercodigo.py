@@ -1,1 +1,1 @@
-print ("hola humanos")
+dia = 24
